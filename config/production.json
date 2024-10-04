@@ -1,0 +1,6 @@
+{
+    "nombre": "API Rest Node JS - PRD",
+    "configDB": {
+        "host": "prod-db-server"
+    }  
+}

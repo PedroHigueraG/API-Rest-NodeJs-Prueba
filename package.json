@@ -1,0 +1,19 @@
+{
+  "name": "practica-8-middleware",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "config": "^3.3.12",
+    "debug": "^4.3.7",
+    "express": "^4.21.0",
+    "morgan": "^1.10.0"
+  }
+}
